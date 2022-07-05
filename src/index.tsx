@@ -1,1 +1,1 @@
-export * from 'forms/Toggles/SimpleToggle';
+export * from './forms/Toggles/SimpleToggle';
